@@ -4,12 +4,12 @@
 This is a hybrid Information Retrieval System that combines **Boolean Retrieval** and **BM25 Ranking** algorithms to search through news articles. The system is implemented in Python and designed to run on **Google Colab**.
 
 ## Features
-- 🔍 **Simple Ranked Search** using BM25 algorithm
-- 🎯 **Boolean Search** with AND, OR, NOT operators
-- 📁 **Category Filter** to search within specific news categories
-- 📊 **Evaluation Metrics**: Precision, Recall, F1-Score, MAP, MRR
-- ⚡ **Performance Timing** for each query
-- 📝 **Text Preprocessing** with NLTK (stopwords removal, lemmatization)
+-  **Simple Ranked Search** using BM25 algorithm
+-  **Boolean Search** with AND, OR, NOT operators
+-  **Category Filter** to search within specific news categories
+-  **Evaluation Metrics**: Precision, Recall, F1-Score, MAP, MRR
+-  **Performance Timing** for each query
+-  **Text Preprocessing** with NLTK (stopwords removal, lemmatization)
 
 ## Requirements
 - Python 3.x
