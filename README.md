@@ -162,7 +162,7 @@ IR-Assignment-3/
 
 ## Important Notes
 
-⚠️ **Critical Requirements:**
+ **Critical Requirements:**
 1. **Articles.csv MUST be in Google Drive** at `/content/drive/MyDrive/Articles.csv`
 2. **Mount Google Drive first** before running any other cells
 3. **Run cells in order** from STEP 0 to the final main menu
